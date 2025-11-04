@@ -14,7 +14,7 @@ const mockVideos: VideoCard[] = [
   {
     id: '2',
     title: 'Learn TypeScript in 2024',
-    thumbnail: 'https://media.thisvid.com/contents/videos_screenshots/12882000/12882856/preview.mp4.jpg',
+    thumbnail: 'https://imgur.com/E9S2cll',
     channel: 'Coding Master',
     views: '500K views',
     timestamp: '1 week ago'
