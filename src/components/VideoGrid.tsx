@@ -13,8 +13,8 @@ interface VideoCard {
 const mockVideos: VideoCard[] = [
   {
     id: '1',
-    title: 'Building a YouTube Clone with Next.js and TypeScript',
-    thumbnail: 'https://picsum.photos/seed/1/320/180',
+    title: 'Girl gets back from the gym and shits her shorts',
+    thumbnail: '<iframe width="480" height="345" src="https://thisvid.com/embed/11218133/" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>',
     channel: 'Tech Channel',
     views: '1.2M views',
     timestamp: '3 days ago'
