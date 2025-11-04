@@ -20,17 +20,6 @@ const mockVideos: VideoCard[] = [
     views: '1.2M views',
     timestamp: '3 days ago'
   },
-  // Add more videos like this:
-  {
-    id: '2',
-    title: 'Learn TypeScript in 2024',
-    image: 'https://picsum.photos/seed/typescript/320/180',
-    link: 'https://example.com/videos/learn-typescript',
-    channel: 'Coding Master',
-    views: '500K views',
-    timestamp: '1 week ago'
-  }
-];
   {
     id: '2',
     title: 'Learn TypeScript in 2024',
